@@ -4,6 +4,7 @@ void hello()
 {
 	printf("Hello World");
 }
+
 void doSomethingAtRemote()
 {
 	printf("Changes at Remote");
