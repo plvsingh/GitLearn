@@ -5,7 +5,7 @@ void hello()
 	printf("Hello World");
 }
 
-void doSomethingAtRemote()
+void doSomethingAtRemote(int k)
 {
 	printf("Changes at Remote");
 }
