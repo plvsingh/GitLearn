@@ -3,6 +3,7 @@
 void branch()
 {
 	printf("Hello from local side");
+	printf("Testing at remote");
 }
 
 void hello()
