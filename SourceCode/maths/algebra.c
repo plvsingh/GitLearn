@@ -8,3 +8,9 @@ void QE(float a, float b, float c)
 	//solve quad
 }
 
+void CE()
+{
+	//solve cubic equation
+}
+
+

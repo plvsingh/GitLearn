@@ -19,3 +19,9 @@ int div(int x, int y)
 {
 	//div
 }
+
+int fact(int x)
+{
+	//do factorial
+}
+

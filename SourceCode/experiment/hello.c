@@ -2,7 +2,7 @@
 
 void branch()
 {
-	printf("Branch Testing");
+	printf("Hello from local side");
 }
 
 void hello()
