@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void branch()
+{
+	printf("Branch Testing");
+}
+
 void hello()
 {
 	printf("Hello World");
